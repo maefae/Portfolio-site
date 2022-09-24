@@ -30,6 +30,7 @@ html {
 }
 
 header {
+	background-image: url("wood.jpg");
 	position: relative;
 	height: 520px;
 	min-height: 450px;
@@ -38,7 +39,6 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;

@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 My name is Megan Faith Seibert-Hughes and I am a student at Code Fellows. Before transitioning to a career in tech, I worked as a Psychological Operations Specialist for the U.S. Army Reserves, a Medical Courier, and had a pet sitting business. Outside of these jobs, I have a passion for creative work such as music production, web/graphic/UX design, and freelance work. Seeing the similarity in creative problem solving with front-end programming, I decided to learn Full-Stack Javascript. An ideal environment to use this skill would be working remotely with a group of like-minded individuals who are open, passionate, and approachable.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,11 +11,11 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "JS Party",
+        "startDate": "2022",
+        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
+          "images/Screenshot(115).png",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
         "url": "",
@@ -35,11 +35,11 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Horned Beasts",
+        "startDate": "2022",
+        "description": "First project I created involving React. My code was reviewed by a professional curator. Application depicts a gallery of cards which you can inspect closer upon clicking. You can click on the like button to favorite a card, and filter out images by how many horns each beast has.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
+          "images/Screenshot(112).png",
           "images/portfolio/photography/p2.jpg"
         ],
         "url": "https://github.com",
@@ -81,37 +81,31 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Full-Stack JavaScript Developer",
+        "years": "2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Canvas 8/16/22"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "HTML",
+          "CSS",
+          "React"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "US Army",
+        "title": "Psychological Operations Specialist",
+        "years": "2019 - present",
         "mainTech": [
-          "Angular 7/8"
+          "Psychological Warfare"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "PAW",
+          "TAW",
+          "CAPES BRIEF"
         ]
       }
     ]

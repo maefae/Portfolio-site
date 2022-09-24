@@ -1,0 +1,9 @@
+# Query: software
+# ContextLines: 1
+
+1 result - 1 file
+
+public/portfolio_shared_data.json:
+  3        "name": "Megan  Faith Seibert-Hughes",
+  4:       "titles": [ "Software Developer | Transitioning Army PSYOP Soldier | Secret Clearance" ],
+  5        "social": [
